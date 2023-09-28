@@ -5,4 +5,4 @@
 - 📫 How to reach me ...DAFRAYAL@DAFRAYAL.COM / DAFRAYAL.COM
 //*"My |legacy"*\\
 //*(My 'legacy)*\\
-It was omnious to let others speak as vendors or universal, but to listen.
+It was omnious to iteration to let others speak as vendors or universal, but to listen.
