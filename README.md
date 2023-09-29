@@ -6,5 +6,5 @@
 //*"My |legacy"*\\
 //*(My 'legacy)*\\
 It was omnious to iteration to let others speak as vendors or universal, but to listen.
-Simplicity diminished. Find people interesting without comparison and..
+Simplicity diminished.. Find people interesting without comparison and..
 Life is big misdirection unless made with and of. Harmony.
