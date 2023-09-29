@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DAFRAYAL
+- 👋 Hi, I’m @Nick B.
 - 👀 I’m interested in ... Style
 - 🌱 I’m currently learning ... DC
 - 💞️ I’m looking to collaborate on ... MICROSOFT TEAMS
