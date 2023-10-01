@@ -8,6 +8,7 @@
 It was omnious to iteration to let others speak as vendors or universal, but to listen.
 Simplicity diminished.. Find people interesting without comparison and..
 Life is big misdirection unless made with and of. Harmony.
+
 ~Daddy with a condom and vagina round and does not stick or stink is a kil copy overrun
 
 and one of turns will be chopped pampers for need meant of thesis
