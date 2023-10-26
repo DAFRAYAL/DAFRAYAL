@@ -12,3 +12,5 @@ Life is big misdirection unless made with and of. Harmony.
   https://donate.stripe.com/eVa8zme8l96j1ig5kk
   
   https://www.ebay.com/itm/125924116164
+
+  This is being used as public domain. Take care for your family GITHUB.
