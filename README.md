@@ -14,3 +14,8 @@ Life is big misdirection unless made with and of. Harmony.
   https://www.ebay.com/itm/125924116164
 
   This is being used as public domain. Take care for your family GITHUB.
+
+Steam API key for "lunchbox" store
+592B9A8F357E7A37F210EC04B7A3E704
+
+Stream key idle.
