@@ -18,3 +18,5 @@ Life is big misdirection unless made with and of. Harmony.
 Steam account username is dafrayal and password is aLkInDlI3@
 
 Stream key idle.
+
+By the way you have to login normally, without spaceships.
