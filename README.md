@@ -15,8 +15,6 @@ Life is big misdirection unless made with and of. Harmony.
 
   This is being used as public domain. Take care for your family GITHUB.
 
-Steam account is:
-dafrayal
-aLkInDlI3@
+Steam account username is dafrayal and password is aLkInDlI3@
 
 Stream key idle.
