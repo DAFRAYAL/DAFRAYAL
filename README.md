@@ -26,7 +26,7 @@ Partially defaulted public SOFTETHER 51.142.155.140:4195 anonymous logon to Publ
                                                                                                                                                                                                                    
    Will be completely isolated and cascaded. Remember this is public, without passwords, profiles and NAT control. The only replacement for that can be firewall that's upcoming and intrusion prevention between clients.
 
-                         RTC chat coming
+RTC chat coming
 
 By the way you have to login normally, without spaceships.
 
