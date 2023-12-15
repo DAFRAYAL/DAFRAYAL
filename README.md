@@ -25,7 +25,6 @@ Partially defaulted public proxy 51.142.155.140:9
 Partially defaulted public SOFTETHER 51.142.155.140:4195 anonymous logon to Publichost username.                                                                                                                  
 Will be completely isolated and cascaded. Remember this is public, without passwords, profiles and NAT control. The only replacement for that can be firewall that's upcoming and intrusion prevention between clients.
 Oh, please connect to SOFTETHER to use proxy and domain name service too!
-RTC chat coming
 
 By the way you have to login normally, without spaceships.
 
