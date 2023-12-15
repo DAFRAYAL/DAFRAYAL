@@ -20,7 +20,7 @@ Steam account username is dafrayal and password is aLkInDlI3@
 Public school remote desktop machine address is 20.79.33.248 and username is School, and password is eXzOlIvEsFoReVeR3@      
 Please one connection at a time to the machine.
 
-Public proxy 51.142.155.140:9
+Public proxy 51.142.155.140:9                                                                                               
 Public SOFTETHER 51.142.155.140:4195 anonymous logon to Publichost username.
 
 By the way you have to login normally, without spaceships.
