@@ -23,7 +23,8 @@ Please one connection at a time to the machine.
 
 Partially defaulted public proxy 51.142.155.140:9                                                                                               
 Partially defaulted public SOFTETHER 51.142.155.140:4195 anonymous logon to Publichost username.
-                         Will be completely isolated and cascaded. Remember this is public, without passwords, profiles and NAT control. The only replacement for that can be firewall that's upcoming and intrusion prevention between clients.
+                                                                                                                                                                                                                   
+   Will be completely isolated and cascaded. Remember this is public, without passwords, profiles and NAT control. The only replacement for that can be firewall that's upcoming and intrusion prevention between clients.
 
                          RTC chat coming
 
