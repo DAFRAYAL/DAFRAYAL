@@ -17,6 +17,11 @@ Life is big misdirection unless made with and of. Harmony.
 
 Steam account username is dafrayal and password is aLkInDlI3@
 
-Stream key idle.
+Public school remote desktop machine address is 20.79.33.248 and username is School, and password is eXzOlIvEsFoReVeR3@
+Please one connection at a time to the machine.
+
+Proxy and VPN coming.
 
 By the way you have to login normally, without spaceships.
+
+API-STREAMING?
