@@ -25,7 +25,7 @@ Partially defaulted public proxy 51.142.155.140:9
 Partially defaulted public domain name service 51.142.155.140 port is 53 of course.                                                                                          
 Partially defaulted public SOFTETHER 51.142.155.140:4195 anonymous logon to Publichost username.                                                                                                                  
 Will be completely isolated and cascaded. Remember this is public, without passwords, profiles. The only replacement for that can be with firewall that's upcoming, intrusion prevention between clients, and NAT control.                                                                                  
-Oh, please connect to SOFTETHER to use proxy and domain name service too!
+Oh, please connect to SOFTETHER to use proxy and domain name service too! Same will be for IR chat.
 
 By the way you have to login normally, without spaceships.
 
