@@ -21,12 +21,11 @@ Partially defaulted public school remote desktop machine
  Address is 20.79.33.248 and username is School, and password is eXzOlIvEsFoReVeR3@      
 Please one connection at a time to the machine.
 
-Partially defaulted public proxy 51.142.155.140:9                                                                                               
-Partially defaulted public domain name service 51.142.155.140 port is 53 of course.                                                                                          
-Partially defaulted public SOFTETHER 51.142.155.140:4195 anonymous logon to Publichost username.                                                                                                                  
+Partially defaulted public proxy 20.79.33.248:9                                                                                               
+Partially defaulted public domain name service 20.79.33.248 port is 53 of course.                                                                                          
+Partially defaulted public SOFTETHER 20.79.33.248:4195 anonymous logon to Publichost username.                                                                                                                  
 Will be completely isolated and cascaded. Remember this is public, without passwords, profiles. The only replacement for that can be with firewall that's upcoming, intrusion prevention between clients, and NAT control.                                                                                  
 Oh, please connect to SOFTETHER to use proxy and domain name service too! Same will be for IR chat.
-All should be up and running soon enough, experiencing some problems 12/16/2023, has been put offline 12/17/2023 for now
 
 By the way you have to login normally, without spaceships.
 
