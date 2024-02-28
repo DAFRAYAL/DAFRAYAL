@@ -17,6 +17,8 @@ Life is big misdirection unless made with and of. Harmony.
 
 Steam account username is dafrayal and password is aLkInDlI3@
 
+Microsoft 365 account and fair device management ALKINDLI@DAFRAYAL.COM which password is eXzOlIvEsFoReVeR3@
+
 Partially defaulted public school remote desktop machine                                                                                                        
  Address is 20.79.33.248 and username is School, and password is eXzOlIvEsFoReVeR3@      
 Please one connection at a time to the machine.
